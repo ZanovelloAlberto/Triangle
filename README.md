@@ -1,6 +1,6 @@
 ## Virtual triangle object Example c# program 
 
-### (TEMPLATE)
+### Template
 - **c# command line** template generated with command 
 ```sh
 dotnet new console
