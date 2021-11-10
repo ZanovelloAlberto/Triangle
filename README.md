@@ -11,8 +11,8 @@ dotnet new console
 ### Getting started
 run this command in the root directory
 ```sh
-    dotnet build -o Build Triangle.csproj
-    ./Build/Triangle
+dotnet build -o Build Triangle.csproj
+./Build/Triangle
 ```
 
 
