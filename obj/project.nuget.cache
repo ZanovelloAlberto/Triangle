@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "po3xKrgLci9gFB/uS85bGwdjZITSu4jleT8b+gjpHoRIPg55XO7uiYarw933PjuAcpvZlP9/iK0qrsxsysuGBg==",
+  "dgSpecHash": "rz/j2Uqbr5h6s4sheNx/3n1pyhd1OwmQ8gIykWRqEd9OpHZxYanm8buf7NW2JCj0u/XfPhGISGzoZSF2h5JDrA==",
   "success": true,
-  "projectFilePath": "/home/alberto/github/c#/Triangle/Triangolo.csproj",
+  "projectFilePath": "/home/alberto/github/c#/Triangle/Triangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

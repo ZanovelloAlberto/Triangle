@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alberto/github/c#/Triangle/Triangolo.csproj",
-      "projectName": "Triangolo",
-      "projectPath": "/home/alberto/github/c#/Triangle/Triangolo.csproj",
+      "projectUniqueName": "/home/alberto/github/c#/Triangle/Triangle.csproj",
+      "projectName": "Triangle",
+      "projectPath": "/home/alberto/github/c#/Triangle/Triangle.csproj",
       "packagesPath": "/home/alberto/.nuget/packages/",
       "outputPath": "/home/alberto/github/c#/Triangle/obj/",
       "projectStyle": "PackageReference",
